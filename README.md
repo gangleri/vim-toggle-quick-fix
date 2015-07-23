@@ -8,6 +8,4 @@ Plugin 'gangleri/vim-toggle-quick-fix'
 ```
 By default I have bound &lt;leader&gt;qf as the short cut.
 
-
-Plugin 'gangleri/vim-toggle-quick-fix'
-
+![](screen.gif)
