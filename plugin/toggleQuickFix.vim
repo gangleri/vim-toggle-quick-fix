@@ -1,4 +1,4 @@
-
+" toggle the quick fix list
 let g:quickfix_is_open = 0
 
 function! ToggleQuickfix()
